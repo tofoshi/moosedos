@@ -19,5 +19,7 @@ public interface ProductoInterface {
 //    public boolean eliminarProducto(int id);
 //    public boolean verificarProducto(String np);
 //    public Producto buscarProducto(int id);
+
+    
     
 }
